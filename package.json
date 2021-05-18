@@ -1,0 +1,17 @@
+{
+  "name": "adopt-me",
+  "version": "1.0.0",
+  "description": "React introduction Frontend Masters",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"src/**/*.{js,jsx}\"",
+    "lint": "eslint \"src/**/*.{js,jsx}\" --quiet"
+  },
+  "author": "fre-ben",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.18.0",
+    "eslint-config-prettier": "^8.1.0",
+    "prettier": "^2.3.0"
+  }
+}
