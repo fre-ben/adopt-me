@@ -4,6 +4,7 @@
     "plugin:import/errors",
     "plugin:react/recomended",
     "plugin:jsx-a11y/recommended",
+    "plugin:react-hooks/recommended",
     "prettier"
   ],
   "rules": {
