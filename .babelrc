@@ -8,5 +8,5 @@
     ],
     "@babel/preset-env"
   ],
-  "plugins": ["@babel/plugins-proposal-class-properties"]
+  "plugins": ["@babel/proposal-class-properties"]
 }
